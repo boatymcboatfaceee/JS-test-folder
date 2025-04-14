@@ -61,6 +61,6 @@ class Cat extends Pet {
         this.lives = lives
     }
     meow() {
-        return "MEOWW"
+        return "MEOWWwwww"
     }
 }
