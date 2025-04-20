@@ -51,7 +51,7 @@ class Pet {
         this.age = age;
     }
     eat() {
-        return `${this.name} is eating`
+        return `${this.name} is eatingg`
     }
 }
 
